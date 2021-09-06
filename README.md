@@ -23,8 +23,25 @@ Current Project: <a href="https://github.com/holychicken99/CPP_iM-BOOST-">Image 
 
 <p align="center">
  
+### What I'm currently learning:
+
+
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="http://rust-lang.org/logos/rust-logo-64x64.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+
+  ## My activities
+
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=holychicken99&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holychicken99&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
 
 </p> 
+  
 
 
 </samp>
