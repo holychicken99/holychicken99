@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/akki-singh-865350137/">Akki</a></b>.
-    <br>I'm a Computing Science Undergraduate Student from BC , vancouver.<br>
+    <br>I'm a Computing Science Undergraduate Student at SFU.<br>
 
 </samp>
 
