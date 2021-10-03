@@ -19,11 +19,25 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/holychicken99/CPP_iM-BOOST-">Image Editor in c++</a>
+
+  ----
+  <a href="https://github.com/holychicken99/CPP_imageBoost">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=holychicken99&repo=CPP_imageBoost&theme=midnight-purple" />
+</a>
+  <a href="https://github.com/holychicken99/Dotfiles">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=holychicken99&repo=dotfiles&theme=tokyonight" />
+</a>
+  <a href="https://github.com/holychicken99/skip_ad">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=holychicken99&repo=skip_ad&theme=tokyonight" />
+</a>
+   <a href="https://github.com/holychicken99/Algorithm_Playground">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=holychicken99&repo=algorithm_playground&theme=midnight-purple" />
+</a>
+
 
 <p align="center">
  
-### What I'm currently learning:
+ ### What I'm currently learning:
 
 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +48,7 @@ Current Project: <a href="https://github.com/holychicken99/CPP_iM-BOOST-">Image 
   ## My activities
 
 <a href="https://github.com/Pepyn0/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=holychicken99&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=holychicken99&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/holychicken99/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holychicken99&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
