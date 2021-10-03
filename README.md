@@ -22,7 +22,7 @@
 
   ----
   <a href="https://github.com/holychicken99/IMGpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=holychicken99&repo=CPP_imageBoost&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=holychicken99&repo=IMGpp&theme=midnight-purple" />
 </a>
   <a href="https://github.com/holychicken99/Dotfiles">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=holychicken99&repo=dotfiles&theme=tokyonight" />
