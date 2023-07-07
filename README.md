@@ -1,8 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/akki-singh-865350137/">Akki</a></b>.
-    <br>I'm a Computing Science Undergraduate Student at SFU.Head over to my <a href="https://gitlab.com/holychicken99">gitlab</a> <br>
+  GO <a href="https://gitlab.com/holychicken99">gitlab</a> <br>
 
 </samp>
 
